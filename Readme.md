@@ -1,4 +1,4 @@
-# Problem Solving in C
+# Problem-Solving-in-C
 I have Started Solving Problem in C language, The Programs are below, if you want the output of the below program, you can look into the specific program folder.
 
 C Program

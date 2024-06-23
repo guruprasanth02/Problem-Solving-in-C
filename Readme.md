@@ -8,4 +8,5 @@ C Program
 4. Write a C program to accept two integers and check whether they are equal or not. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C04/Check%20Whether%20two%20numbers%20are%20equal.c)
 5. Write a C program to check whether a given number is even or odd. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C05/number%20is%20odd%20or%20even.c)
 6. Write a C program to find whether a given year is a leap year or not. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C06/leap%20year%20or%20not.c)
-7. 
+7. Write a C program to read the age of a candidate and determine whether he is eligible to cast his/her own vote. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C07/Eligible%20to%20vote.c)
+8. 

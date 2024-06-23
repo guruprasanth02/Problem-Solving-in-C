@@ -10,4 +10,10 @@ C Program
 6. Write a C program to find whether a given year is a leap year or not. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C06/leap%20year%20or%20not.c)
 7. Write a C program to read the age of a candidate and determine whether he is eligible to cast his/her own vote. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C07/Eligible%20to%20vote.c)
 8. Write a C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C08/determining%20the%20n%20value%20by%20m.c)
-9. 
+9. Write a C program to accept the height of a person in centimeters and categorize the person according to their height. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C09/Categorize%20the%20person%20height.c)
+10. Write a C program to find the largest of three numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C10/Greates%20of%20Three%20numbers.c)
+11. Write a C program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C11/Quadrant%20the%20coordinate%20points%20lies.c)
+12. Write a C program to determine eligibility for admission to a professional course based on the criteria. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C12/eligible%20for%20admission.c)
+13. Write a C program to read the roll no, name and marks of three subjects and calculate the total, percentage and division. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C13/Calculate%20tot%2Cper%2Cdiv%20of%20student.c)
+14. Write a C program to check whether a triangle is Equilateral, Isosceles or Scalene. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C14/Check%20whether%20the%20triangle%20is%20Equilateral%2C%20Isosceles%20or%20Scalene.c)
+15. Write a C program to check whether a character is an alphabet, digit or special character. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C15/Check%20whether%20the%20input%20is%20alphabet%20or%20digit%20or%20special%20character.c)

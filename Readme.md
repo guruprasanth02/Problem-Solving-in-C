@@ -9,4 +9,5 @@ C Program
 5. Write a C program to check whether a given number is even or odd. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C05/number%20is%20odd%20or%20even.c)
 6. Write a C program to find whether a given year is a leap year or not. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C06/leap%20year%20or%20not.c)
 7. Write a C program to read the age of a candidate and determine whether he is eligible to cast his/her own vote. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C07/Eligible%20to%20vote.c)
-8. 
+8. Write a C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C08/determining%20the%20n%20value%20by%20m.c)
+9. 

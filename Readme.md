@@ -2,6 +2,7 @@
 I have Started Solving Problem in C language, The Programs are below
 
 C Program
+                                                                       CONDITIONAL STATEMENTS
 1. Write a C program to print the Hello World and its length. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C01/Hello%20world.c)
 2. Write a C program to determine the value of sum after the assignment statement. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C02/operators.c)
 3. Write a C program to check whether a given number is positive or negative. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C03/number%20is%20positive%20or%20negative.c)
@@ -17,3 +18,9 @@ C Program
 13. Write a C program to read the roll no, name and marks of three subjects and calculate the total, percentage and division. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C13/Calculate%20tot%2Cper%2Cdiv%20of%20student.c)
 14. Write a C program to check whether a triangle is Equilateral, Isosceles or Scalene. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C14/Check%20whether%20the%20triangle%20is%20Equilateral%2C%20Isosceles%20or%20Scalene.c)
 15. Write a C program to check whether a character is an alphabet, digit or special character. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C15/Check%20whether%20the%20input%20is%20alphabet%20or%20digit%20or%20special%20character.c)
+16. Write a C program to calculate profit and loss on a transaction. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C16/Calculate%20profit%20loss.c)
+17. Write a program in C to calculate and print the electricity bill of a given customer. The customer ID, name, and unit consumed by the user should be captured from the keyboard to display the total amount to be paid to the customer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C17/Electricity%20bill.c)
+                                                                                 LOOPS
+
+18. Write a program in C to display the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C18/first%2010%20natural%20numbers.c)
+19. 

@@ -26,3 +26,5 @@ CONDITIONAL STATEMENTS
 LOOPS
 
 18. Write a program in C to display the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C18/first%2010%20natural%20numbers.c)
+19. Write a C program to compute the sum of the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C19/sum%20of%20first%2010%20natural%20numbers.c)
+20. Write a program in C to display the cube of the number up to an integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C20/cube%20of%20numbers%20upto%20given%20integer.c)

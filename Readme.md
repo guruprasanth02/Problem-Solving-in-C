@@ -28,3 +28,6 @@ LOOPS
 18. Write a program in C to display the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C18/first%2010%20natural%20numbers.c)
 19. Write a C program to compute the sum of the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C19/sum%20of%20first%2010%20natural%20numbers.c)
 20. Write a program in C to display the cube of the number up to an integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C20/cube%20of%20numbers%20upto%20given%20integer.c)
+21. Write a program in C to display the multiplication table for a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C21/Multiplication%20table.c)
+22. Write a C program to display the n terms of odd natural numbers and their sum. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C22/Sum%20of%20n%20terms%20of%20odd%20natural%20number.c)
+23. Write a program in C to display a pattern like a right angle triangle using an asterisk. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C23/Right%20angle%20triangle%20using%20asterik.c)

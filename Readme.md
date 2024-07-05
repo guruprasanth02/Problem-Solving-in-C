@@ -31,3 +31,6 @@ LOOPS
 21. Write a program in C to display the multiplication table for a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C21/Multiplication%20table.c)
 22. Write a C program to display the n terms of odd natural numbers and their sum. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C22/Sum%20of%20n%20terms%20of%20odd%20natural%20number.c)
 23. Write a program in C to display a pattern like a right angle triangle using an asterisk. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C23/Right%20angle%20triangle%20using%20asterik.c)
+24. Write a program in C to make such a pattern like a right angle triangle with a number which will repeat a number in a row. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C24/Right%20angle%20triangle%20using%20numbers.c)
+25. Write a program in C to make such a pattern like a right angle triangle with the number increased by 1. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C25/Right%20angle%20Triangle%20incremented%20by%201.c)
+26. Write a C program to make such a pattern as a pyramid with an asterisk. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C26/Pyramid%20Pattern%20using%20asterik.c)

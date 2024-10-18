@@ -53,5 +53,5 @@ LOOPS
 43. Write a C program to calculate the factorial of an odd number entered by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C43/Odd%20Factorial%20Quest.c)
 44. Write a C program to print a  Hastag square pattern. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C44/Hastag%20Square%20Pattern.c)
 45. Write a C program to display Pascal's triangle. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C45/Pascal's%20Triangle.c)
-46. Write a C program to create a concatenated series of a digit and calculate its sum. [(code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C46/Series%20sum%20Calculator.c)
-    
+46. Write a C program to create a concatenated series of a digit and calculate its sum. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C46/Series%20sum%20Calculator.c)
+47. Write a C program to calculate the sum of the series 1/1 + 1/2 + 1/4 + 1/8+....  up to n terms, where n is input by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C47/Geometric%20Progression.c)

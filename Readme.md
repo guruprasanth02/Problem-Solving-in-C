@@ -57,4 +57,5 @@ LOOPS
 47. Write a C program to calculate the sum of the series 1/1 + 1/2 + 1/4 + 1/8+....  up to n terms, where n is input by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C47/Geometric%20Progression.c)
 48. Write a C program to calculate the sum of the harmonic series up to a given positive integer n. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C48/Harmonic%20Series.c)
 49. Write a C program to count and print the number of digits in a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C49/Digit%20Count.c)
+50. Write a C program to calculate and display the cubes of three consecutive integers starting from a user-provided positive integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C50/Perfect%20Cubes.c)
 

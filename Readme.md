@@ -61,5 +61,6 @@ LOOPS
 51. Write a C program to print a right-angled triangle pattern of letters, where each row contains the same letter corresponding to the row number, starting from 'A'. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C51/Alphabetic%20Triangle%20Generator.c)
 52. Write a C program to count the Vowels in the given string. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C52/Vowel%20Counter.c)
 53. Write a C program to display a specified number of terms in a series where each term is double the starting value, as provided by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C53/Exploring%20the%20Growth%20Series.c)
+54. Write a C Program to Check if a Number is Automorphic. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C54/Automorphic%20Number.c)
 
 

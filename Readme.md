@@ -62,5 +62,7 @@ LOOPS
 52. Write a C program to count the Vowels in the given string. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C52/Vowel%20Counter.c)
 53. Write a C program to display a specified number of terms in a series where each term is double the starting value, as provided by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C53/Exploring%20the%20Growth%20Series.c)
 54. Write a C Program to Check if a Number is Automorphic. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C54/Automorphic%20Number.c)
+55. Write a C program to calculate the sum of the first and last digits of a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C55/Sum%20of%20first%20and%20last%20digit.c)
+
 
 

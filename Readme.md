@@ -65,7 +65,9 @@ LOOPS
 55. Write a C program to calculate the sum of the first and last digits of a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C55/Sum%20of%20first%20and%20last%20digit.c)
 56. Write a C program to calculate the sum of the middle digits of a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C56/Sum%20of%20middle%20digits.c)
 57. Write a C program to swap the first and last element of a given integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C57/Swapping%20the%20first%20and%20last%20digits.c)
-58.  Write a C program that takes an integer input from the user and prints asterisks for all prime numbers up to that integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C58/Prime%20Pattern.c)
+58. Write a C program that takes an integer input from the user and prints asterisks for all prime numbers up to that integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C58/Prime%20Pattern.c)
+59. Write a C program to convert a decimal number (from 1 to 40) into its equivalent Roman numeral representation. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C59/Roman%20Numerals.c)
+60. Write a C program to print a pyramid pattern of numbers where each row contains an increasing sequence followed by a decreasing sequence based on the specified number of rows. [(code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C60/Palindromic%20Triangle.c)
 
 
 

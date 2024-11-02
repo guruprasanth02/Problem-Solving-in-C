@@ -69,6 +69,7 @@ LOOPS
 59. Write a C program to convert a decimal number (from 1 to 40) into its equivalent Roman numeral representation. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C59/Roman%20Numerals.c)
 60. Write a C program to print a pyramid pattern of numbers where each row contains an increasing sequence followed by a decreasing sequence based on the specified number of rows. [(code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C60/Palindromic%20Triangle.c)
 61. Write a C program to calculate the product of the non-zero digits of a given integer, ensuring that the input is valid (not zero or containing zero digits). [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C61/Product%20of%20digits.c)
+62. Write a C program to determine if a given year is a leap year and count the number of leap and non-leap years in the next ten years. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C62/Counted%20the%20Leap%20and%20Non-Leap%20years.c)
 
 
 

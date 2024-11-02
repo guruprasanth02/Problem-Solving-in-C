@@ -68,6 +68,7 @@ LOOPS
 58. Write a C program that takes an integer input from the user and prints asterisks for all prime numbers up to that integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C58/Prime%20Pattern.c)
 59. Write a C program to convert a decimal number (from 1 to 40) into its equivalent Roman numeral representation. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C59/Roman%20Numerals.c)
 60. Write a C program to print a pyramid pattern of numbers where each row contains an increasing sequence followed by a decreasing sequence based on the specified number of rows. [(code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C60/Palindromic%20Triangle.c)
+61. Write a C program to calculate the product of the non-zero digits of a given integer, ensuring that the input is valid (not zero or containing zero digits). [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C61/Product%20of%20digits.c)
 
 
 

@@ -74,7 +74,7 @@ C Program
 
 ### ARRAYS
 
-64. 
+64. Write a C program to input elements into an array and display them in a comma-separated format. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C64/Storing%20Array%20elements%20and%20print%20it.c)
 
 
 

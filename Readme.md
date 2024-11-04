@@ -3,7 +3,7 @@ I have Started Solving Problem in C language, The Programs are below
 
 C Program
 
-CONDITIONAL STATEMENTS
+### CONDITIONAL STATEMENTS
  
 1. Write a C program to print the Hello World and its length. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C01/Hello%20world.c)
 2. Write a C program to determine the value of sum after the assignment statement. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C02/operators.c)
@@ -23,7 +23,7 @@ CONDITIONAL STATEMENTS
 16. Write a C program to calculate profit and loss on a transaction. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C16/Calculate%20profit%20loss.c)
 17. Write a program in C to calculate and print the electricity bill of a given customer. The customer ID, name, and unit consumed by the user should be captured from the keyboard to display the total amount to be paid to the customer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C17/Electricity%20bill.c)
 
-LOOPS
+### LOOPS
 
 18. Write a program in C to display the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C18/first%2010%20natural%20numbers.c)
 19. Write a C program to compute the sum of the first 10 natural numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C19/sum%20of%20first%2010%20natural%20numbers.c)
@@ -70,6 +70,11 @@ LOOPS
 60. Write a C program to print a pyramid pattern of numbers where each row contains an increasing sequence followed by a decreasing sequence based on the specified number of rows. [(code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C60/Palindromic%20Triangle.c)
 61. Write a C program to calculate the product of the non-zero digits of a given integer, ensuring that the input is valid (not zero or containing zero digits). [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C61/Product%20of%20digits.c)
 62. Write a C program to determine if a given year is a leap year and count the number of leap and non-leap years in the next ten years. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C62/Counted%20the%20Leap%20and%20Non-Leap%20years.c)
+63. Write a C program to calculate the sum of unique prime factors of a given positive integer. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C63/Sum%20of%20prime%20factors.c)
+
+### ARRAYS
+
+64. 
 
 
 

@@ -75,6 +75,8 @@ C Program
 ### ARRAYS
 
 64. Write a C program to input elements into an array and display them in a comma-separated format. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C64/Storing%20Array%20elements%20and%20print%20it.c)
+65. Write a C program to input an array of integers and display the elements in reverse order. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C65/Reverse%20elements%20in%20Array.c)
+
 
 
 

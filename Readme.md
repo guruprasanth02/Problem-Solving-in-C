@@ -76,6 +76,7 @@ C Program
 
 64. Write a C program to input elements into an array and display them in a comma-separated format. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C64/Storing%20Array%20elements%20and%20print%20it.c)
 65. Write a C program to input an array of integers and display the elements in reverse order. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C65/Reverse%20elements%20in%20Array.c)
+66. Write a C program to calculate the sum of the first and last elements, the second and second-last elements of an array, and then print the total sum of these two sums. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C66/Array%20Sum%20Calculator.c)
 
 
 

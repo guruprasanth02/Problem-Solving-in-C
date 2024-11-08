@@ -78,6 +78,7 @@ C Program
 65. Write a C program to input an array of integers and display the elements in reverse order. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C65/Reverse%20elements%20in%20Array.c)
 66. Write a C program to calculate the sum of the first and last elements, the second and second-last elements of an array, and then print the total sum of these two sums. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C66/Array%20Sum%20Calculator.c)
 67. Write a C program to remove all even numbers from an array and display the remaining odd numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C67/Remove%20All%20Even%20Numbers.c)
+68. Write a C program to input an array of integers and print all the negative elements in the array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C68/Printing%20the%20Negative%20Elements.c)
 
 
 

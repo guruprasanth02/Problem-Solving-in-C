@@ -83,6 +83,7 @@ C Program
 70. Write a C program to find the second maximum element in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C70/Second%20Maximum%20Element%20in%20an%20Array.c)
 71. Write a C program to count and display the number of even and odd elements in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C71/Count%20the%20Total%20Odd%20and%20even%20Numbers%20in%20array.c)
 72. Write a C program to count and display the number of negative elements in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C72/Count%20the%20Negative%20Elements%20in%20Array.c)
+73. Write a C program to find the neighboring elements of a given number in an array, handling edge cases when the number is at the beginning or end of the array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C73/Print%20the%20Two%20neighbouring%20Elements%20in%20Array.c)
 
 
 

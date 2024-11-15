@@ -85,6 +85,7 @@ C Program
 72. Write a C program to count and display the number of negative elements in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C72/Count%20the%20Negative%20Elements%20in%20Array.c)
 73. Write a C program to find the neighboring elements of a given number in an array, handling edge cases when the number is at the beginning or end of the array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C73/Print%20the%20Two%20neighbouring%20Elements%20in%20Array.c)
 74. Write a C program to insert an element at a specific position in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C74/Inserting%20an%20Element%20in%20Array.c)
+75. Write a C program to delete an element from a given position in an array and display the updated array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C75/Deleting%20an%20Element%20in%20Array.c)
 
 
 

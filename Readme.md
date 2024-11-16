@@ -86,6 +86,8 @@ C Program
 73. Write a C program to find the neighboring elements of a given number in an array, handling edge cases when the number is at the beginning or end of the array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C73/Print%20the%20Two%20neighbouring%20Elements%20in%20Array.c)
 74. Write a C program to insert an element at a specific position in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C74/Inserting%20an%20Element%20in%20Array.c)
 75. Write a C program to delete an element from a given position in an array and display the updated array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C75/Deleting%20an%20Element%20in%20Array.c)
+76. Write a C program to find the frequency of each element in an array, ensuring that elements are not counted multiple times. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C76/Count%20the%20Frequency%20of%20each%20element%20in%20Array.c)
+
 
 
 

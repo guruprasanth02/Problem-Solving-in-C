@@ -88,6 +88,7 @@ C Program
 75. Write a C program to delete an element from a given position in an array and display the updated array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C75/Deleting%20an%20Element%20in%20Array.c)
 76. Write a C program to find the frequency of each element in an array, ensuring that elements are not counted multiple times. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C76/Count%20the%20Frequency%20of%20each%20element%20in%20Array.c)
 77. Write a C program to find and print the unique elements in an array, where each unique element appears exactly once. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C77/Unique%20elements%20in%20Array.c)
+78. Write a C program to count the number of duplicate elements in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C78/Count%20the%20Duplicates%20in%20Array.c)
 
 
 

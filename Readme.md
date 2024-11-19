@@ -89,6 +89,7 @@ C Program
 76. Write a C program to find the frequency of each element in an array, ensuring that elements are not counted multiple times. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C76/Count%20the%20Frequency%20of%20each%20element%20in%20Array.c)
 77. Write a C program to find and print the unique elements in an array, where each unique element appears exactly once. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C77/Unique%20elements%20in%20Array.c)
 78. Write a C program to count the number of duplicate elements in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C78/Count%20the%20Duplicates%20in%20Array.c)
+79. Write a C program to remove duplicate elements from an array entered by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C79/Delete%20Duplicates%20in%20Array.c)
 
 
 

@@ -91,6 +91,7 @@ C Program
 78. Write a C program to count the number of duplicate elements in an array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C78/Count%20the%20Duplicates%20in%20Array.c)
 79. Write a C program to remove duplicate elements from an array entered by the user. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C79/Delete%20Duplicates%20in%20Array.c)
 80. Write a C program to separate even and odd numbers from a given array and display them in two separate arrays. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C80/Separate%20an%20Array%20by%20Odd%20and%20Even%20Numbers.c)
+81. Write a C program to add a given number to the number formed by the elements of an array and print the updated array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C81/Adding%20an%20Integer%20to%20Array.c)
 
 
 

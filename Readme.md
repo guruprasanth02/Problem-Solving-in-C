@@ -94,6 +94,7 @@ C Program
 81. Write a C program to add a given number to the number formed by the elements of an array and print the updated array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C81/Adding%20an%20Integer%20to%20Array.c)
 82. Write a C program to sort an array of integers in ascending order using the bubble sort algorithm. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C82/Sort%20an%20Array.c)
 83. Write a C program to perform left rotation of an array by a given number of positions. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C83/Left%20Rotate%20an%20Array.c)
+84. Write a C program to perform right rotation of an array by a given number of positions. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C84/Right%20rotate%20an%20Array.c)
 
 
 

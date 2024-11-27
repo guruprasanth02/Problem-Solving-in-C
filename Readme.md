@@ -97,6 +97,7 @@ C Program
 84. Write a C program to perform right rotation of an array by a given number of positions. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C84/Right%20rotate%20an%20Array.c)
 85. Write a C program to swap the first and last elements of an array entered by the user and display the modified array. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C85/Interchange%20of%20FIrst%20and%20Last%20Element.c)
 86. Write a C program to modify an array such that for each element (except the first and last), if it is greater than its immediate neighbors, replace it with the sum of itself and its two neighbors. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C86/Peak%20Element%20Sum%20Replacement%20in%20an%20Array.c)
+87. Write a C program to separate the even and odd elements of an array and display them in a new array, with all even numbers first, followed by all odd numbers. [(Code)](https://github.com/guruprasanth02/Problem-Solving-in-C/blob/main/C87/Separate%20Positive%20and%20Negative%20elements%20in%20an%20array.c)
 
 
 
